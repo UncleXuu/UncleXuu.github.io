@@ -58,7 +58,27 @@ redirect_from:
 
 **Cycloidal Propeller [[video](https://youtube.com/shorts/_IwL4TRK-bA)]**
 
-- Implemented full directional movement for the underwater robot. This project involves achieving directional and depth-controlled movement by utilizing data from the IMU and depth sensor, along with PID control.
+- This underwater robot can move in all directions, just like McNamara wheels. This project involves achieving directional and depth-controlled movement by utilizing data from the IMU and depth sensor, along with PID control.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algoritm</div><img src='images/drawing_robot.png' alt="drawing_robot" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Drawing Robot [[code](https://github.com/UncleXuu/Drawing_Robot_Tic_Tac_Toe)] [[video](https://youtu.be/WPUbCplfAMw?si=HOGm8zRXLjzOUu34)]**
+
+- The drawing robot is capable of executing Tic Tac Toe games between two players through a command-line interface. Players can select grid sizes and choose their unique patterns from a list. The robot autonomously determines the winner and visually highlights the victory by drawing a line through the matching sequence.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Design</div><img src='images/adhesion_device.jpg' alt="adhesion_device" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Swirling Adhesion [[video1](https://www.youtube.com/shorts/rjxmZVoMi4o)] [[video2](https://www.youtube.com/shorts/4uXqqEbQ6Xs)]**
+
+- Designed and validated a non-contact swirling adhesion system for both air and underwater environments. Demonstrated that this device can generate strong suction on even rough surfaces while maintaining minimal tangential forces. This unique feature makes it highly suitable for robotic applications, enabling robots to adhere strongly to a wide range of surfaces.
 
 </div>
 </div>
