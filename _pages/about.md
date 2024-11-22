@@ -46,52 +46,22 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Kinematic/CV</div><img src='images/stacking.gif' alt="arm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**ArmLab [[code](https://github.com/UncleXuu/ArmLab)]**
+**ArmLab [[code](https://github.com/UncleXuu/ArmLab)] [[video](https://www.youtube.com/shorts/Pw4TuiCOPQg)]**
 
 - Armlab is a course project for UMich ROB550-Robotic Systems Lab. In this project, an RGB-D camera was used to detect the size, color, position, and height of blocks. The project also involved implementing both forward and inverse kinematics for a 5DOF robotic arm, which was then used to perform a series of tasks. This project achieved first place in the final competition.
 
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/RoboCup.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
-<!-- **RoboCup@Home China Open 2022**
-
-- Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
-
-- [What is That](https://youtu.be/Q4CnmgxCESk)
-
-- [Receptionist](https://youtu.be/N8DXzzaAM7E)
-
-- [Use jaco2 robotic arm to open the door and grab objects ](https://youtu.be/AMC0N596RX8)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboMaster</div><img src='images/RoboMaster.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embedded System/Communication</div><img src='images/cyc_prop.png' alt="cyc_prop" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICRA RoboMaster University Sim2real Challenge 2022 Team:777**](https://youtu.be/7V5SHpF0PHM)
+**Cycloidal Propeller [[video](https://youtube.com/shorts/_IwL4TRK-bA)]**
 
-- Employed an Extended Kalman Filter (EKF) alongside an omnidirectional motion model for state projection and correction using sensor data, including IMU and odometry
-- Utilized A* algorithm for global path planning and Timed Elastic Band algorithm for local path planning
+- Implemented full directional movement for the underwater robot. This project involves achieving directional and depth-controlled movement by utilizing data from the IMU and depth sensor, along with PID control.
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Swarm Robot</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- **Collaborative Control of Wheeled-legged Robots** 
-
-- Aimed to study the simultaneous stabilization and tracking problems of non-holonomic wheeled mobile robots based on kinematics models
-  
-- [Collaborative Control of Robot Simulation](https://www.youtube.com/watch?v=om2NmwMu-Js)
-
-- [Swarming Robot: Sim2Real Transfer](https://youtu.be/3t6fWcQid-4)
-</div>
-</div>-->
 
 # 🎖 Honors and Awards
 - *2024.7*, Head of Department Award, University of Nottingham, UK
