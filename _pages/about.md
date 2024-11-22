@@ -75,7 +75,7 @@ Previously, I studied Aerospace Engineering at the University of Nottingham, whe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Design</div><img src='images/adhesion_device.jpg' alt="adhesion_device" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Design</div><img src='images/adhesion_device.JPG' alt="adhesion_device" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Swirling Adhesion [[video1](https://www.youtube.com/shorts/rjxmZVoMi4o)] [[video2](https://www.youtube.com/shorts/4uXqqEbQ6Xs)]**
