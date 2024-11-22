@@ -20,7 +20,7 @@ redirect_from:
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-I am currently pursuing a degree in Mechanical Engineering at the University of Michigan, specializing in Robotics. My academic focus centers on control systems and robotic learning.
+I am currently pursuing a degree in Mechanical Engineering at the University of Michigan, specializing in Robotics. My academic focus centers on control systems and robot learning.
 
 Previously, I studied Aerospace Engineering at the University of Nottingham, where I had the privilege of being mentored by Prof. Erwin(Xin) Dong. Under his guidance, I began exploring robotics and gained foundational knowledge in this field.
 
@@ -65,7 +65,7 @@ Previously, I studied Aerospace Engineering at the University of Nottingham, whe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algoritm</div><img src='images/drawing_robot.png' alt="drawing_robot" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algorithm</div><img src='images/drawing_robot.png' alt="drawing_robot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Drawing Robot [[code](https://github.com/UncleXuu/Drawing_Robot_Tic_Tac_Toe)] [[video](https://youtu.be/WPUbCplfAMw?si=HOGm8zRXLjzOUu34)]**
@@ -75,7 +75,7 @@ Previously, I studied Aerospace Engineering at the University of Nottingham, whe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Design</div><img src='images/adhesion_device.JPG' alt="adhesion_device" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Design</div><img src='images/adhesion_device.jpg' alt="adhesion_device" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Swirling Adhesion [[video1](https://www.youtube.com/shorts/rjxmZVoMi4o)] [[video2](https://www.youtube.com/shorts/4uXqqEbQ6Xs)]**
